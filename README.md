@@ -1,4 +1,4 @@
-# Basic-Programs
+# Python Basic-Programs
 ## 📌 Description
 This repository contains a curated collection of basic programming projects developed to strengthen core programming fundamentals and logical thinking. Each program focuses on solving simple real-world problems using structured programming techniques.
 
